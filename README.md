@@ -8,6 +8,7 @@
 
 ## About Me:
 Hi there! I'm Phương Uyên, a frontend developer with a passion for designing and building user interfaces. I specialize in HTML, CSS, JavaScript, and Figma to create beautiful and user-friendly websites. Additionally, I have experience with C++, C, and C# in software development projects.
+![MBE Earth.gif](https://github.com/[uyenkk]/[uyenkk]/blob/main/MBE%20Earth.gif)
 
 ---
 
@@ -16,24 +17,13 @@ Hi there! I'm Phương Uyên, a frontend developer with a passion for designing 
 - **Frontend Development:**
   - HTML, CSS, JavaScript
   - Responsive Web Design
-  - Frameworks: React.js, Vue.js (optional)
 
 - **UI/UX Design:**
-  - Figma, Adobe XD
+  - Figma
   - Wireframing, Prototyping, Design Systems
 
 - **Programming Languages:**
   - C++, C, C#
-
----
-
-## Featured Projects:
-You can link your featured projects or repositories here.
-
----
-
-## Welcome GIF:
-![MBE Earth.gif](https://github.com/[your-username]/[your-repository-name]/blob/main/MBE%20Earth.gif)
 
 ---
 
