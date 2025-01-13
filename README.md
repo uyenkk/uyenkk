@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Phương Uyên!
+(MBE%20Earth.gif)
 
 I'm a passionate beginner developer eager to learn and grow. I’m currently diving into **JavaScript**, **HTML**, **CSS**, **C++**, **C#**, **SQL**, and **Figma** to enhance my skills.
 
