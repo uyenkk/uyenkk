@@ -1,35 +1,41 @@
-# ![Hi, I'm Phương Uyên!](MBE%20Earth.gif)
+# Phương Uyên
+💻 **Frontend Developer | UI/UX Designer | Coding Enthusiast**  
 
+📧 Email: [puyen274@gmail.com](mailto:puyen274@gmail.com)  
+📸 Instagram: [@__gwenchanaa](https://www.instagram.com/__.gwenchanaa/)  
 
-I'm a passionate beginner developer eager to learn and grow. I’m currently diving into **JavaScript**, **HTML**, **CSS**, **C++**, **C#**, **SQL**, and **Figma** to enhance my skills.
+---
 
-- 🔭 I’m currently learning **JavaScript**, **HTML**, **CSS**, and **C++**.
-- 🌱 I’m improving my skills in **C#**, **SQL**, and exploring **Figma** for design.
-- 💬 Ask me about anything related to **Web Development**, **Programming**, and **Design**.
-- 📫 How to reach me: [puyen274@gmail.com](mailto:puyen274@gmail.com)
+## About Me:
+Hi there! I'm Phương Uyên, a frontend developer with a passion for designing and building user interfaces. I specialize in HTML, CSS, JavaScript, and Figma to create beautiful and user-friendly websites. Additionally, I have experience with C++, C, and C# in software development projects.
 
-## 💻 Technologies and Tools
+---
 
-- **Languages**: JavaScript, HTML, CSS, C++, C#, SQL
-- **Tools**: Figma, GitHub
-- **Version Control**: Git, GitHub
+## Skills:
 
-## 🌟 GitHub Stats and Achievements
+- **Frontend Development:**
+  - HTML, CSS, JavaScript
+  - Responsive Web Design
+  - Frameworks: React.js, Vue.js (optional)
 
-![Phương Uyên's GitHub Stats](https://github-readme-stats.vercel.app/api?username=puyen274&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=merko)
+- **UI/UX Design:**
+  - Figma, Adobe XD
+  - Wireframing, Prototyping, Design Systems
 
-## 🔥 GitHub Streak
+- **Programming Languages:**
+  - C++, C, C#
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=puyen274&theme=merko)
+---
 
-## 🌱 Current Learning Journey
+## Featured Projects:
+You can link your featured projects or repositories here.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puyen274&layout=compact&theme=merko)
+---
 
-## 🎨 Design with Figma
+## Welcome GIF:
+![MBE Earth.gif](https://github.com/[your-username]/[your-repository-name]/blob/main/MBE%20Earth.gif)
 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white)
+---
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuong-uyen/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/phuong_uyen)
+## Connect with Me:
+Feel free to reach out to me via email or Instagram. I’m always open to connect and share knowledge with others!
